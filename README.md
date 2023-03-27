@@ -1,2 +1,2 @@
-# bahodir-nuriddinov
+# bahodirnuriddinov
 Bahodir nuriddinov
